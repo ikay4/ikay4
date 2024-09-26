@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ikay4
 
-gotta catch them all! said no sane person
+Account for personal projects
+FRC Account: @ikayALT
 
 <!---
 ikay4/ikay4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
